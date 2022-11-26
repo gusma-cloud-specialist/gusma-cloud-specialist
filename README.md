@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">A passionate security and Infraestructure Cloud consultant from Mexico</h3>
+<h2 align="center"> Feel free to connect with me </h2>
+<h3 align="center"> I am passionate security and Infraestructure Cloud consultant from Mexico</h3>
 
-- 🔭 I’m currently working on **security connectivity**
+- 🔭 I’m currently working on **the deployment of infraestructure services with connectivity resources such as LB always improving security using items like Azure Firewall, Fortinet and Azure Web application Firewall.**
 
-- 🌱 I’m currently learning **Azure Administrator certification**
+- 🌱 I’m currently learning **Azure Administrator certification AZ104**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gusma-cloud-specialist/gusma-cloud-specialist](https://github.com/gusma-cloud-specialist/gusma-cloud-specialist)
 
