@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavomendozaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavomendozaa/" height="30" width="40" /></a>
 
-<a href="https://join.skype.com/invite/hUHhxrwSS4ik/" target="_blank" rel="noreferrer"> <img src="https://img.freepik.com/free-vector/skype-vector-social-media-icon-7-june-2021-bangkok-thailand_53876-128357.jpg?w=740&t=st=1673295446~exp=1673296046~hmac=5aafe40511b150104262fb95d119bc21ea30e3da8c2968c3889a20abec2faf42" alt="arduino" width="40" height="40"/> </a>
+<a href="https://join.skype.com/invite/hUHhxrwSS4ik/" target="_blank" rel="noreferrer"> <img src="https://eussamytest.blob.core.windows.net/images/SKYPE.PNG" width="40" height="40"/> </a>
   
 </p>
 
