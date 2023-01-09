@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **azure, vms migration , databases deployment and more**
 
-- 📫 How to reach me **gustavo.mendozaa@alumno.buap.mx**
+- 📫 How to reach me **gustavomendozaa97@gmail.com**
 
 - ⚡ Fun fact **I really love to travel, i consider it doesn´t matter where you go, the best is to reach new peole and enjoy the travel.**
 
