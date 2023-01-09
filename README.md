@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavomendozaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60" width="60" /></a>
 
-<a href="https://join.skype.com/invite/hUHhxrwSS4ik/" target="_blank" rel="noreferrer"> <img src="https://eussamytest.blob.core.windows.net/images/skypenegro.png" width="40" height="40"/> </a>
+<a href="https://join.skype.com/invite/hUHhxrwSS4ik/" target="_blank" rel="noreferrer"> <img src="https://eussamytest.blob.core.windows.net/images/skypenegro.png" width="60" height="60"/> </a>
   
 </p>
 
