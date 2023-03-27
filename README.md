@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **the deployment of infraestructure services with connectivity resources such as LB always improving security using items like Azure Firewall, Fortinet and Azure Web application Firewall.**
 
-- 🌱 I’m currently learning **Azure Administrator certification AZ104**
+- 🌱 I’m currently learning **Azure Security certification AZ500**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gusma-cloud-specialist/gusma-cloud-specialist](https://github.com/gusma-cloud-specialist/gusma-cloud-specialist)
 
