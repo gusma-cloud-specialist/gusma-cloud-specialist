@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h2 align="center"> Feel free to connect with me </h2>
-<h3 align="center"> I am passionate security and Infraestructure Cloud consultant from Mexico</h3>
+<h3 align="center"> I am passionate DevOps and Infraestructure Azure Eng. from Mexico</h3>
 
 - 🔭 I’m currently working on **the deployment of infraestructure services with connectivity resources such as LB always improving security using items like Azure Firewall, Fortinet and Azure Web application Firewall.**
 
